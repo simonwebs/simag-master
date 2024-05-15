@@ -7,6 +7,46 @@
     "paths": {
       "/*": [
         "./*"
+      ],
+      "meteor/mongo": [
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/local_collection_driver.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/collection.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/connection_options.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/doc_fetcher.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/mongo_driver.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/mongo_utils.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/observe_multiplex.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/oplog_observe_driver.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/oplog_tailing.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/oplog_v2_converter.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/polling_observe_driver.js",
+        "/home/simonagbey/.meteor/packages/mongo/2.0.0-rc300.2/web.browser/remote_collection_driver.js"
+      ],
+      "meteor/reactive-var": [
+        "/home/simonagbey/.meteor/packages/reactive-var/1.0.13-rc300.1/web.browser/reactive-var.js"
+      ],
+      "meteor/es5-shim": [
+        "/home/simonagbey/.meteor/packages/es5-shim/4.8.1-rc300.1/web.browser/client.js",
+        "/home/simonagbey/.meteor/packages/es5-shim/4.8.1-rc300.1/web.browser/console.js",
+        "/home/simonagbey/.meteor/packages/es5-shim/4.8.1-rc300.1/web.browser/cordova.js",
+        "/home/simonagbey/.meteor/packages/es5-shim/4.8.1-rc300.1/web.browser/export_globals.js",
+        "/home/simonagbey/.meteor/packages/es5-shim/4.8.1-rc300.1/web.browser/import_globals.js"
+      ],
+      "meteor/ecmascript": [
+        "/home/simonagbey/.meteor/packages/ecmascript/0.16.9-rc300.1/web.browser/ecmascript.js"
+      ],
+      "meteor/shell-server": [
+        "/home/simonagbey/.meteor/packages/shell-server/0.6.0-rc300.1/web.browser/main.js",
+        "/home/simonagbey/.meteor/packages/shell-server/0.6.0-rc300.1/web.browser/shell-server.js"
+      ],
+      "meteor/hot-module-replacement": [
+        "/home/simonagbey/.meteor/packages/hot-module-replacement/0.5.4-rc300.1/web.browser/hot-api.js",
+        "/home/simonagbey/.meteor/packages/hot-module-replacement/0.5.4-rc300.1/web.browser/client.js",
+        "/home/simonagbey/.meteor/packages/hot-module-replacement/0.5.4-rc300.1/web.browser/server.js"
+      ],
+      "meteor/react-meteor-data": [
+        "/home/simonagbey/.meteor/packages/react-meteor-data/3.0.0-beta300.1/web.browser/index.js",
+        "/home/simonagbey/.meteor/packages/react-meteor-data/3.0.0-beta300.1/web.browser/suspense/index.js"
       ]
     }
   },
